@@ -1,0 +1,22 @@
+[
+    {
+        "input": "I feel sad",
+        "response": "I'm really sorry to hear you're feeling sad. Would you like to talk about it?"
+    },
+    {
+        "input": "I'm stressed",
+        "response": "It sounds like you're feeling overwhelmed. What has been stressing you out?"
+    },
+    {
+        "input": "I feel happy",
+        "response": "That's wonderful to hear! What's making you happy today?"
+    },
+    {
+        "input": "I'm anxious",
+        "response": "It seems like you're feeling anxious. Would you like some tips on managing anxiety?"
+    },
+    {
+        "input": "I need help",
+        "response": "I'm here for you. Can you tell me more about what's going on?"
+    }
+]
